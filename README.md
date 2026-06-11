@@ -18,22 +18,6 @@
 
 ---
 
-## 🚀 Projects
-
-### AI Interview Preparation Platform
-- AI-powered mock interview platform
-- Firebase Authentication
-- OpenRouter AI Integration
-- Redux Toolkit
-- MERN Stack
-
-### Baba Ratan Website
-- Built using Next.js & Tailwind CSS
-- Responsive business website
-- Reusable components
-- Mobile-first design
-
----
 
 ## 📚 Education
 
