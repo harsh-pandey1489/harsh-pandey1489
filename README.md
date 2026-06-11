@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi 👋, I'm Harsh Kumar Pandey
 
-<!--
-**harsh-pandey1489/harsh-pandey1489** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student at AKTU
 
-Here are some ideas to get you started:
+💻 Frontend Developer | React.js | Next.js | JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning DSA, Advanced React, and Full Stack Development
+
+🚀 Passionate about building modern web applications
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,java,git,github,vscode,postman" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### AI Interview Preparation Platform
+- AI-powered mock interview platform
+- Firebase Authentication
+- OpenRouter AI Integration
+- Redux Toolkit
+- MERN Stack
+
+### Baba Ratan Website
+- Built using Next.js & Tailwind CSS
+- Responsive business website
+- Reusable components
+- Mobile-first design
+
+---
+
+## 📚 Education
+
+**Master of Computer Applications (MCA)**  
+AKTU (2024-2026)
+
+**Bachelor of Science (Mathematics)**  
+Siddharth University (2021-2024)
+
+---
+
+## 📊 GitHub Stats
+
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh-pandey1489&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-pandey1489&layout=compact)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=harsh-pandey1489)
+
+---
+
+## 📫 Connect With Me
+
+📧 harshpandey4489@gmail.com
