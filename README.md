@@ -29,13 +29,7 @@ Siddharth University (2021-2024)
 
 ---
 
-## 📊 GitHub Stats
 
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh-pandey1489&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-pandey1489&layout=compact)
-
----
 
 ## 🔥 GitHub Streak
 
